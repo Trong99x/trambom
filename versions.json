@@ -1,14 +1,12 @@
-{
-  "versions": [
-    {
-      "version": "15.12.6",
-      "file": "master_v15_12_6_multiversion.bin",
-      "note": "OTA đa phiên bản"
-    },
-    {
-      "version": "15.11.2",
-      "file": "master_v15_11_2_ota.bin",
-      "note": "Fix ổn định"
-    }
-  ]
-}
+[
+  {
+    "version": "15.12.6",
+    "url": "https://raw.githubusercontent.com/Trong99x/trambom/main/master_v15_12_6_multiversion.bin",
+    "changelog": "Fix loi luong stack Telegram, toi uu hoa bo nho dem"
+  },
+  {
+    "version": "15.12.5",
+    "url": "https://raw.githubusercontent.com/Trong99x/trambom/main/master_v15_11_2_ota.bin",
+    "changelog": "Them tinh nang rollback phien ban"
+  }
+]
