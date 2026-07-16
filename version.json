@@ -1,8 +1,14 @@
-```json
 {
   "versions": [
-    { "version": "15.12.6", "file": "master_v15_12_6_multiversion.bin", "note": "OTA đa phiên bản" },
-    { "version": "15.11.2", "file": "master_v15_11_2_ota.bin", "note": "Fix ổn định" }
+    {
+      "version": "15.12.6",
+      "file": "master_v15_12_6_multiversion.bin",
+      "note": "OTA đa phiên bản"
+    },
+    {
+      "version": "15.11.2",
+      "file": "master_v15_11_2_ota.bin",
+      "note": "Fix ổn định"
+    }
   ]
 }
-```
