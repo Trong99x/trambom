@@ -1,6 +1,14 @@
 {
   "versions": [
-    { "version": "15.12.5", "file": "master_v15_12_6_multiversion.bin", "note": "OTA đa phiên bản" },
-    { "version": "15.12.4", "file": "master_v15_11_2_ota.bin", "note": "Fix phao slave đóng băng" },
+    {
+      "version": "15.12.6",
+      "file": "master_v15_12_6_multiversion.bin",
+      "note": "OTA đa phiên bản"
+    },
+    {
+      "version": "15.11.2",
+      "file": "master_v15_11_2_ota.bin",
+      "note": "Fix ổn định"
+    }
   ]
 }
