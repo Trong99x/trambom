@@ -1,4 +1,3 @@
-```json
 {
   "versions": [
     { "version": "15.12.6", "file": "master_v15_12_5.bin", "note": "OTA đa phiên bản" },
@@ -6,4 +5,3 @@
     { "version": "15.10.0", "file": "master_v15_10_0.bin", "note": "Bản ổn định cũ, dùng để rollback" }
   ]
 }
-```
