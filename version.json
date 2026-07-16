@@ -2,12 +2,12 @@
   "versions": [
     {
       "version": "15.12.6",
-      "url": "https://raw.githubusercontent.com/Trong99x/trambom/main/master_v15_12_6_multiversion.bin",
+      "file": "master_v15_12_6_multiversion.bin",
       "note": "OTA đa phiên bản"
     },
     {
       "version": "15.11.2",
-      "url": "https://raw.githubusercontent.com/Trong99x/trambom/main/master_v15_11_2_ota.bin",
+      "file": "master_v15_11_2_ota.bin",
       "note": "Fix ổn định"
     }
   ]
