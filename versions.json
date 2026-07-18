@@ -1,7 +1,6 @@
 {
   "versions": [
     { "version": "15.14.1", "file": "master_v15_14_1.bin", "note": "OTA đa người dùng fix" },
-    { "version": "15.14.0", "file": "master_v15_14_0_multiuser.bin", "note": "OTA đa người dùng" },
-    { "version": "15.13.3", "file": "master_v15_13_3_ota.bin", "note": "có ota" }
+    { "version": "15.14.0", "file": "master_v15_14_0_multiuser.bin", "note": "OTA đa người dùng" }
   ]
 }
