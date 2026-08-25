@@ -1,5 +1,5 @@
 {
   "versions": [
-    { "version": "15.16.4", "file": "master_v15_16_4.bin", "note": "OTA cảm biến siêu âm chế độ thủ công" }
+    { "version": "15.16.4", "file": "master_v15_16_4.bin", "note": "OTA cảm biến siêu âm" }
   ]
 }
