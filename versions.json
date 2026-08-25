@@ -1,5 +1,5 @@
 {
-  "versions":   [
+  "versions": [
     { "version": "15.16.6", "file": "master_v15_16_6.bin", "note": "OTA Tiết kiệm điện" }
   ]
 }
