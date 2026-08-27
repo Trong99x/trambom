@@ -1,6 +1,6 @@
 {
   "versions": [
-    { "version": "15.16.12", "file": "master_v15_16_12.bin",  "note": "OTA Tiết kiệm điện", "target": "master" },
+    { "version": "15.16.13", "file": "master_v15_16_13.bin",  "note": "OTA Tiết kiệm điện", "target": "master" },
     { "version": "1.4",     "file": "slave_m1_v1_4.bin",    "note": "Power-save 80MHz",   "target": "m1" },
     { "version": "1.4",     "file": "slave_m2_v1_4.bin",    "note": "Power-save 80MHz",   "target": "m2" },
     { "version": "1.4",     "file": "slave_h_v1_4.bin",     "note": "Power-save bơm",     "target": "h" }
