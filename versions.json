@@ -1,6 +1,6 @@
 {
   "versions": [
-    { "version": "15.16.26", "file": "master_v15_16_26.bin",  "note": "OTA Water taget", "target": "master" },
+    { "version": "15.16.28", "file": "master_v15_16_28.bin",  "note": "OTA Water taget", "target": "master" },
     { "version": "1.6",     "file": "slave_m1_v1_6.bin",    "note": "fix",   "target": "m1" },
     { "version": "1.6",     "file": "slave_m2_v1_6.bin",    "note": "fix",   "target": "m2" },
     { "version": "1.6",     "file": "slave_h_v1_6.bin",     "note": "fix",    "target": "h" }
