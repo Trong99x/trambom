@@ -1,6 +1,6 @@
 
 {
   "versions": [
-    { "version": "1.9.5", "file": "tram_dien_v1_9_5.bin",  "note": "OTA", "target": "energy" }
+    { "version": "1.9.5", "file": "tram_dien_v1_9_5.bin"}
   ]
 }
