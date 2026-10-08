@@ -1,5 +1,5 @@
 {
   "versions": [
-    { "version": "1.0.1", "file": "man_hinh_v1_0_1.bin", "note": "Sửa lỗi MQTT/OTA" }
+    { "version": "1.0.1", "file": "man_hinh_v1_0_1.bin", "note": "Ban dau" }
   ]
 }
