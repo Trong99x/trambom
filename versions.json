@@ -1,7 +1,7 @@
 {
   "versions": [
     { "version": "20.9", "file": "master_v20_9.bin",  "note": "OTA", "target": "master" },
-    { "version": "20.10", "file": "master_v20_10.bin",  "note": "OTA", "target": "master" },
+    { "version": "20.11", "file": "master_v20_11.bin",  "note": "OTA", "target": "master" },
     { "version": "1.6",     "file": "slave_m1_v1_6.bin",    "note": "fix",   "target": "m1" },
     { "version": "1.6",     "file": "slave_m2_v1_6.bin",    "note": "fix",   "target": "m2" },
     { "version": "1.6",     "file": "slave_h_v1_6.bin",     "note": "fix",    "target": "h" }
